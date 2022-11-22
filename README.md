@@ -25,6 +25,7 @@
     <img height="40em" src="https://badgen.net/badge/icon/docker?icon=docker&amp;label" alt="Docker"/>
     <img height="40em" src="https://badgen.net/badge/icon/jira?icon=jira&amp;label" alt="Jira"/>
     <img height="40em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+     <img height="40em" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img height="40em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img height="40em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img height="40em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
