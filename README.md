@@ -5,7 +5,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach meby email : renatorechdutra@gmail.com
+- 📫 How to reach me : renatorechdutra@gmail.com
 
 
 <div>
