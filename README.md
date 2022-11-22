@@ -1,3 +1,6 @@
+### <img height="40em" src="https://images.emojiterra.com/google/android-pie/512px/1f44b.png"> Hi there, I'm Renato Dutra a Software Engineer <img height="40em" src="https://images.emojiterra.com/google/android-11/512px/1f9d1-1f3fb-1f4bb.png">
+
+
 - 👋 Hi, I’m Renato Dutra a Software Engineer 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... xxx 
