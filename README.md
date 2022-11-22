@@ -23,9 +23,6 @@
     <img height="40em" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img height="40em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img height="40em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-    <img height="40em" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=whit" />
-    <img height="40em" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   </div>
 <!---
 RenatoHash/RenatoHash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
