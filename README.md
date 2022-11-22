@@ -22,7 +22,7 @@
     <img height="40em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img height="40em" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
     <img height="40em" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-    <img  height="40em src="https://badgen.net/badge/icon/docker?icon=docker&amp;label" alt="Docker">
+    <img  height="40em src="https://badgen.net/badge/icon/docker?icon=docker&amp;label" alt="Docker"/>
     <img height="40em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img height="40em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img height="40em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
